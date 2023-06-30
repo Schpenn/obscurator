@@ -1,4 +1,4 @@
-# obscurator
+# Obscurator
 
 This is a small exercise in dealing with lists as arrays in python.
 It is a small encryption app, that takes some text and scrambles it using a combination of caesar cipher, ascii-numbers and arrays.
